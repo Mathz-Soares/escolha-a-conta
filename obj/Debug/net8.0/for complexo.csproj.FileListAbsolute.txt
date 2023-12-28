@@ -1,0 +1,14 @@
+C:\Users\id148\Desktop\Matheus\for complexo\bin\Debug\net8.0\for complexo.exe
+C:\Users\id148\Desktop\Matheus\for complexo\bin\Debug\net8.0\for complexo.deps.json
+C:\Users\id148\Desktop\Matheus\for complexo\bin\Debug\net8.0\for complexo.runtimeconfig.json
+C:\Users\id148\Desktop\Matheus\for complexo\bin\Debug\net8.0\for complexo.dll
+C:\Users\id148\Desktop\Matheus\for complexo\bin\Debug\net8.0\for complexo.pdb
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.AssemblyInfoInputs.cache
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.AssemblyInfo.cs
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.csproj.CoreCompileInputs.cache
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.dll
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\refint\for complexo.dll
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.pdb
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\for complexo.genruntimeconfig.cache
+C:\Users\id148\Desktop\Matheus\for complexo\obj\Debug\net8.0\ref\for complexo.dll
